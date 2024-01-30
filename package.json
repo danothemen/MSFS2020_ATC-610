@@ -1,0 +1,15 @@
+{
+  "name": "atc-610simconnection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/stream": "^12.0.0",
+    "node-simconnect": "^3.6.1"
+  }
+}
